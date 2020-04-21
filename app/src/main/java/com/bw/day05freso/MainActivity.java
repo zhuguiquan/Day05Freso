@@ -28,6 +28,6 @@ public class MainActivity extends AppCompatActivity {
         ButterKnife.bind(this);
         Uri parse = Uri.parse("https://raw.githubusercontent.com/facebook/fresco/gh-pages/static/logo.png");
 
-//LSFPOES/;GJSD;GLKSD
+
     }
 }
